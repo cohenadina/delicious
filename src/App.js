@@ -1,4 +1,4 @@
-import Pages from "./pages/Pages";
+import Pages from "./pages/pages"; // was /pages/Pages - capitalized?
 import Category from "./components/category";
 import {BrowserRouter} from "react-router-dom";
 import Search from "./components/Search";
